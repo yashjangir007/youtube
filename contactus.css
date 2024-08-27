@@ -1,0 +1,339 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    
+    width: 100%;
+    height: 51px;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-bottom: 1px solid rgb(233, 224, 224);
+    display: flex;
+    box-shadow: 0px 0px 3px 0px black;
+}
+
+.mail{
+    height: 51px;
+    width: 45%;
+    margin-left: 103px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.mail i{
+    height: 25px;
+    width: 25px;
+    color: #f35525;
+    margin-top: 13px;
+}
+.mail p{
+    font-size: 16px;
+    font-family: sans-serif;
+    color: gray;
+    margin-top: 13px;
+}
+.social{
+height: 51px;
+width: 35%;
+/* border: 1px solid black; */
+display: flex;
+}
+.social i{
+    height: 30px;
+    width: 30px;
+    color: white;
+    font-size: 16px;
+     background-color:#cdcdcd ;
+     border-radius: 50%;
+     text-align: center;
+     padding-top: 7px;
+     box-sizing: border-box;
+    margin-top: 10px;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+.villa{
+
+height: 100px;
+width: 100%;
+background-color: white;
+/* border-bottom: 1px solid black; */
+display: flex;
+
+}
+.villa h2{
+    font-size: 27px;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-top: 40px;
+    padding-left: 103px;
+}
+
+.pera{
+    height: 100px;
+    width: 835px;
+    /* border-bottom: 1px solid black; */
+    margin-left: 230px;
+    justify-content: space-evenly;
+    display: flex;
+}
+.pera p{
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+    padding-top: 45px;
+}
+
+.pera button{
+    height: 45px;
+    width: 180px;
+    border-radius: 20px;
+    margin-top: 35px;
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.pera button i{
+    background-color: #f35525;
+    height: 30px;
+    width: 35px;
+  border-radius: 50%;
+padding-top: 10px;
+margin-left: -30px;
+margin-top: -2px;
+
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+.properties{
+    height: 349px;
+    width: 100%;
+    background-image: url(properties.jpg);
+    border: 1px solid black;
+   text-align: center;
+}
+.propun{
+    height: 41px;
+    width: 185px;
+    background-color: white;
+    color: black;
+    box-sizing: border-box;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 42%;
+    margin-top: 110px;
+}
+.properties h2{
+font-size: 50px;
+font-weight: 800;
+font-family: sans-serif;
+color: white;
+margin-top: 30px;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+.get{
+    height: 1556px;
+    width: 100%;
+    border: 1px solid black;
+}
+.get h6{
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ee626b;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.get h2{
+    font-size: 41px;
+    font-weight: 800;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 15px;
+    margin-right: 900px;
+}
+.get h4{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-left:100px;
+    margin-right: 660px;
+    line-height: 1.7;
+}
+/*  */
+.us3{
+    width: 360px;
+    height: 122px;
+    border: 1px solid white;
+    box-shadow: 0px 0px  5px 0px gray;
+    margin-top: 600px;
+    border-radius: 15px;
+    margin-left: 97px;
+    position: absolute;
+    margin-top: 35px;
+}
+.us3 img{
+    margin-top: 30px;
+    margin-left: 26px;
+}
+.us3 h6{
+    color: black;
+    font-size: 27px;
+    margin-left: 100px;
+    margin-top: -55px;
+   
+}
+.us3 p{
+    font-size: 16px;
+    color: gray;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.us4{
+    width: 360px;
+    height: 122px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px 0px gray;
+    border-radius: 15px;
+    margin-left: 435px;
+    margin-top: -119px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.us4 img{
+    margin-top: 30px;
+    margin-left: 26px;
+}
+.us4 h6{
+    color: black;
+    font-size: 27px;
+    margin-left: 100px;
+    margin-top: -45px;
+   
+}
+.us4 p{
+    font-size: 16px;
+    color: gray;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.getun{
+    width: 516px;
+    height: 687px;
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: -343px;
+    box-shadow: 0px 0px 5px 0px gray;
+}
+.getun label{
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-left: 20px;
+}
+.getun input{
+    height: 44px;
+    width: 456px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 30px;
+    background-color: #fafafa;
+    color: black;
+    font-size: 14px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+.getun button{
+   height: 44px;
+   width: 170px;
+   border: none;
+   border-radius: 30px;
+   background-color: black;
+   color: white;
+   font-size: 16px;
+   letter-spacing: 1px;
+   font-family: sans-serif;
+   font-weight: 500;
+   margin-top: 40px;
+   margin-left: 20px;
+   transition: all;
+   transition-duration: 1.5s;
+}
+.getun button:hover{
+    background-color: #f35525;
+}
+
+.getun2{
+    height: 500px;
+    width: 1116px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.getun2 img{
+    height: 500px;
+    width: 1116px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.usun{
+    height: 115px;
+    width: 300px;
+    position: absolute;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-top: -480px;
+}
+.usun h3{
+    color: black;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 5px;
+}
+.usun p{
+    color: black;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 14px;
+    margin-right: 50px;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+.foot{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
